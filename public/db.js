@@ -1,17 +1,6 @@
 const db = [
   {
     avatar:
-      "https://pbs.twimg.com/profile_images/1322218998101147649/Dw_GwR0U_bigger.jpg",
-    name: "Neel Choksi",
-    bio: "Gujrati Boy - Thepla, Khakra and Kachori !",
-    question: "What is Photonics ?",
-    answer:
-      "Neel chooksi is very popular astrologer & best astrologer in mumbai.Neel chooksi is most famous and result oriented astrologer. Neel chooksi stated that in every horoscopes has a hidden good luck key only learned astrologer can find it and you can get treasure of happiness of life.",
-    upvote_count: 63,
-    share_count: 10,
-  },
-  {
-    avatar:
       "https://pbs.twimg.com/profile_images/1112848027050565633/G0F2EtMn_bigger.jpg",
     name: "Elon Musk",
     bio: "Technoking of TESLA !",
