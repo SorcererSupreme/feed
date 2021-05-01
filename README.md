@@ -26,4 +26,4 @@ For any Modifications, go to the public folder inside and checkout the files the
 1. javascript basic functions - map, forEach and javascript syntax
 2. Reactjs knowledge of state and props and functional components.
 
-### Note : No need to go through the server.js file as it will not be required during the Live Coding. I have just used to it serve the files here.
+### Note : No need to go through the server.js file as it is just used to it serve the files here.
